@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "12.0"
 
   # Source location
-  spec.source       = { :git => "https://github.com/AjithPepiAnbuSelvan/WeatherTrackingSemusi.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/AjithPepiAnbuSelvan/WeatherTrackingSemusi.git", :tag => "0.0.1" }
 
   # Source files
   spec.source_files  = "WeatherTracking/**/*.{h,m}"
